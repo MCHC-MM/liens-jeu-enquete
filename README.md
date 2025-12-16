@@ -3,7 +3,6 @@
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
-    <title>Page des liens du jeu</title>
 </head>
 <body>
     <h1>Bienvenue sur la page des liens du jeu !</h1>
